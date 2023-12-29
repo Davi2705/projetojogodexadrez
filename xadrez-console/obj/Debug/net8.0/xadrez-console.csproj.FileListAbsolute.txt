@@ -1,0 +1,14 @@
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.exe
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.deps.json
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.runtimeconfig.json
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.dll
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\bin\Debug\net8.0\xadrez-console.pdb
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.AssemblyInfoInputs.cache
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.AssemblyInfo.cs
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.dll
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\refint\xadrez-console.dll
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.pdb
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.genruntimeconfig.cache
+C:\Users\david\Documents\CURSO C# MATERIAIS\Projeto jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net8.0\ref\xadrez-console.dll
