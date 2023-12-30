@@ -19,7 +19,11 @@ using tabuleiro;
             this.tab = tab;
             this.cor = cor;
             this.qtdMovimentos = 0;
-            
+        }
+
+        public void incrementarQteMovimentos()
+        {
+            qtdMovimentos++;
         }
     }
 }
