@@ -4,7 +4,7 @@ namespace tabuleiro
 {
     internal class TabuleiroException : Exception
     {
-        public TabuleiroException(string mdg) : base(mdg)
+        public TabuleiroException(string msg) : base(msg)
         {
         }
     }
