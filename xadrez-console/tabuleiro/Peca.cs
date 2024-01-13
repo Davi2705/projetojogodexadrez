@@ -1,17 +1,18 @@
 ﻿
 
+using System.Diagnostics.Metrics;
 using System.Reflection.PortableExecutable;
 using tabuleiro;
 
- namespace tabuleiro
+namespace tabuleiro
 {
     abstract class Peca
     {
-        public  Posicao posicao { get; set; }
+        public Posicao posicao { get; set; }
         public Cor cor { get; protected set; }
 
         public int qtdMovimentos { get; set; }
-        public Tabuleiro tab   { get; set; }
+        public Tabuleiro tab { get; set; }
 
         public Peca(Tabuleiro tab, Cor cor)
         {
@@ -34,11 +35,12 @@ using tabuleiro;
         public bool existeMovimentosPossiveis()
         {
             bool[,] mat = movimentosPossiveis();
-            for (int i=0; i<tab.linhas; i++)
+            for (int i = 0; i < tab.linhas; i++)
             {
                 for (int j = 0; j < tab.colunas; j++)
                 {
-                    if (mat[i, j]){
+                    if (mat[i, j])
+                    {
                         return true;
                     }
                 }
